@@ -1,0 +1,6 @@
+2023/12/15-22:12:12.935 5600 Creating DB C:\Users\micha\AppData\Local\Google\Chrome\User Data\Default\WebStorage\159\IndexedDB\indexeddb.leveldb since it was missing.
+2023/12/15-22:12:12.944 5600 Reusing MANIFEST C:\Users\micha\AppData\Local\Google\Chrome\User Data\Default\WebStorage\159\IndexedDB\indexeddb.leveldb/MANIFEST-000001
+2023/12/15-22:12:43.500 5438 Level-0 table #5: started
+2023/12/15-22:12:43.505 5438 Level-0 table #5: 367 bytes OK
+2023/12/15-22:12:43.509 5438 Delete type=0 #3
+2023/12/15-22:12:43.509 5438 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
